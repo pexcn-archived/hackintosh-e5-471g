@@ -87,7 +87,7 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
-				<string>Change EC0 to EC</string>
+				<string>EC0 to EC</string>
 				<key>Count</key>
 				<integer>0</integer>
 				<key>Enabled</key>
